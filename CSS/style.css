@@ -1,0 +1,21 @@
+*{
+    padding: 5px;
+    margin: 10px 10px;
+}
+
+body{
+    border-top: 5px solid rgba(169 , 169, 169, 0.9);
+    border-bottom: 10px solid rgba(169 , 169, 169, 0.9);
+}
+h1{
+    margin: 20px 0 10px 0px;
+}
+h3{
+    margin: 10px 0 1.5px 0px;
+}
+
+.button{
+    margin: 10px;
+    width: 100px;
+    height: fit-content;
+}
