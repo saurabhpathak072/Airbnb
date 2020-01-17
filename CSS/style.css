@@ -16,6 +16,10 @@ h3{
 p{
     margin: 10px 0 1.5px 0px;
 }
+.image{
+    height: 250px;
+    width: 350px;
+}
 .button{
     margin: 10px;
     width: 100px;
